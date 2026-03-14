@@ -13,4 +13,4 @@ FREE for PC & Android. See more in [license.txt](license.txt) file. See ["Releas
 - [FREE in Google Play Store](https://play.google.com/store/apps/details?id=com.Mr.Addon.Mr.AddonGameMaker)
 - [FREE in Itch.io](https://addonius.itch.io/mraddon-game-maker)
 
-![DEPANGDEMONIUM](Cover wHellDesign/Depangdemonium1920x1080_v2.png)
+![DEPANGDEMONIUM]("Cover wHellDesign/Depangdemonium1920x1080_v2.png")
